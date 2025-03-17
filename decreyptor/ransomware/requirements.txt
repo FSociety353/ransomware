@@ -1,4 +1,0 @@
-colored
-getmac
-pycryptodomex
-pycryptodome
